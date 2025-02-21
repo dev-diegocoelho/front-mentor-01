@@ -1,0 +1,24 @@
+@media (max-width: 375px) {
+    body {
+        justify-content: start;
+
+    }
+
+    section {
+        max-width: 300px;
+        max-height: 450px;
+    }
+
+    img {
+        max-width: 275px;
+        margin-top: 10px;
+    }
+    .titulo{
+        font-size: 12px;
+    }
+    .paragrafo{
+        font-size: 12px;
+    }
+
+
+}

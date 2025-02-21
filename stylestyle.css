@@ -1,0 +1,41 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+section {
+    background-color: hsl(0, 0%, 100%);
+    font-family: "Outfit", serif;
+    border-radius: 20px;
+    height: 550px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+img {
+    max-width: 320px;
+    max-height: 320px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.titulo {
+    text-align: center;
+    margin: 10px 20px 0px 20px;
+}
+
+.paragrafo {
+    text-align: center;
+    font-size: 15px;
+    color: hsl(216, 15%, 48%);
+    margin: 0px 25px 0px 25px;
+    padding: 0px 20px 0px 20px;
+
+}
