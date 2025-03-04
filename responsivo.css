@@ -1,7 +1,6 @@
 @media (max-width: 375px) {
     body {
-        justify-content: start;
-
+        max-width: 375px;
     }
 
     section {
@@ -13,12 +12,12 @@
         max-width: 275px;
         margin-top: 10px;
     }
-    .titulo{
-        font-size: 12px;
-    }
-    .paragrafo{
+
+    .titulo {
         font-size: 12px;
     }
 
-
+    .paragrafo {
+        font-size: 12px;
+    }
 }
