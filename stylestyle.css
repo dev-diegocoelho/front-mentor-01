@@ -6,7 +6,7 @@ section {
     background-color: hsl(0, 0%, 100%);
     font-family: "Outfit", serif;
     border-radius: 20px;
-    height: 550px;
+    height: 570px;
     width: 350px;
     display: flex;
     flex-direction: column;
@@ -20,23 +20,25 @@ section {
 }
 
 img {
-    max-width: 320px;
-    max-height: 320px;
+    max-width: 318px;
+    max-height: 315px;
     border-radius: 20px;
-    margin-top: 10px;
+    margin-top: 15px;
 }
 
 .titulo {
     text-align: center;
-    margin: 10px 20px 0px 20px;
+    padding: 10px;
+    font-size: 13px;
+    
 }
 
 .paragrafo {
+    max-width: 280px;
     text-align: center;
     font-size: 15px;
     color: hsl(216, 15%, 48%);
-    margin: 0px 25px 0px 25px;
-    padding: 0px 20px 0px 20px;
+    padding-bottom: 20px; 
 
 }
 .rodape {
