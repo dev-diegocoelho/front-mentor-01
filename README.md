@@ -2,7 +2,7 @@
 Realizado durante estudos HTML5 e CSS3 intermediário curso DevQuest.🚀
 
 
-## Tecnologias utlizadas
+## Tecnologias utilizadas
 - HTML
 - CSS
 
